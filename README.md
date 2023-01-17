@@ -1,3 +1,4 @@
+www.patika.dev > Veri Yapıları ve Algoritmalar eğitiminin Selection Sort Projesi
 # Selection-Sort-Project
 [22,27,16,2,18,6] -> Selection Sort;
 
